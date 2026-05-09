@@ -1,4 +1,4 @@
-
+updated Raycast for macOS Addon | cloud-sync + app-uninstaller offers the most advanced Raycast for macOS addon, with cloud-sync and app-uninstaller. Ideal for macOS power users.
 
 
 
